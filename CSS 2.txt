@@ -1,0 +1,51 @@
+CSS
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #008080; /* Teal */
+  color: white;
+  padding: 20px;
+}
+
+nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.hero {
+  background-color: #008080; /* Teal */
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+.features {
+  background-color: #e0ffff; /* Light Cyan */
+  padding: 20px;
+}
+
+.levels {
+  background-color: #90ee90; /* Light Green */
+  padding: 20px;
+}
+
+footer {
+  background-color: #008080; /* Teal */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}

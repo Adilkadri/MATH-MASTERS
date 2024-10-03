@@ -1,0 +1,25 @@
+HTML
+<section class="hero">
+  <h1>Welcome to Math Masters</h1>
+  <p>Your one-stop destination for mastering mathematics from the basics to advanced levels.</p>
+  <a href="login.html">Start Learning</a>
+</section>
+
+<section class="features">
+  <h2>Why Choose Math Masters?</h2>
+  <ul>
+    <li><h3>Interactive tutorials</h3></li>
+    <li><h3>Engaging videos</h3></li>
+    <li><h3>Personalized AI assistance</h3></li>
+    <li><h3>Practice problems and quizzes</h3></li>
+  </ul>
+</section>
+
+<section class="levels">
+  <h2>Choose Your Level</h2>
+  <ul>
+    <li><h3>Basic</h3></li>
+    <li><h3>Pro</h3></li>
+    <li><h3>Advanced</h3></li>
+  </ul>
+</section>

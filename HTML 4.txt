@@ -1,0 +1,19 @@
+HTML
+<section class="features">
+  <h2>Why Choose Math Masters?</h2>
+  <ul>
+    <li><h3>Interactive tutorials</h3><p>Our interactive tutorials provide step-by-step guidance and real-time feedback.</p></li>
+    <li><h3>Engaging videos</h3><p>Learn from expert instructors through engaging video lessons.</p></li>
+    <li><h3>Personalized AI assistance</h3><p>Get tailored recommendations and support from our AI assistant.</p></li>
+    <li><h3>Practice problems and quizzes</h3><p>Reinforce your learning with a variety of practice problems and quizzes.</p></li>
+  </ul>
+</section>
+
+<section class="levels">
+  <h2>Choose Your Level</h2>
+  <ul>
+    <li><h3>Basic</h3><p>Master fundamental math concepts like arithmetic, fractions, and decimals.</p></li>
+    <li><h3>Pro</h3><p>Build a strong foundation in algebra, geometry, and other pre-calculus topics.</p></li>
+    <li><h3>Advanced</h3><p>Explore advanced math concepts, including calculus, trigonometry, and linear algebra.</p></li>
+  </ul>
+</section>
